@@ -27,7 +27,7 @@ Total Time spent: 10 hours
 ## Video WalkThrough
 Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-![Demo](http://i.imgur.com/wY4pWJw.gifv)
+![Demo] (http://i.imgur.com/wY4pWJw.gifv)
 
 ## Notes 
 I have worked on it starting from scratch of android development.Used good fragment communication patterns,appcompat usage, etc.
