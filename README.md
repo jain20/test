@@ -31,11 +31,12 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes 
-* Used good fragment communication patterns,appcompat usage, etc.
-* Used Floating Action Button and Snackbar
-* Implemented  add, delete and edit items
-* Improved UI with colors
-* Working on adding Due date, reminder and  current status feature for an item
+* [x] Used good fragment communication patterns,appcompat usage, etc.
+* [x] Used Floating Action Button and Snackbar
+* [x] Implemented  add, delete and edit items
+* [x] Improved UI with colors
+* [x] Working on adding Due date, reminder and  current status feature for an item
+
 ## License
 Copyright 2016 Akanksha Jain
 
